@@ -3,7 +3,7 @@
 Lox Language is a dynamically-typed interpreted programming language, inspired by various scripting languages such as Ruby and Python. This repository contains a Java implementation of the Lox interpreter, along with the necessary tools and examples.
 
 ## Installation
-- Clone the repository:`git clone https://github.com/hazemkhaled98/Lox.git`
+- Clone the repository: `git clone https://github.com/hazemkhaled98/Lox.git`
 - change directory to Jlox: `cd Lox`
 - Compile the source code: `javac jlox/Jlox.java`
 - Run the Lox interpreter: `java jlox.Jlox`
